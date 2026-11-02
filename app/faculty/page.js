@@ -1,4 +1,4 @@
-//Repersent for client
+//Repersent for client.
 "use client";
 import { useState } from "react";
 
